@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1589074223 source:c:\users\diego\documents\utn\prog 1\trabajos practicos\tp2\arrayempleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"MiLibreria.h"
+
+1588970439 c:\users\diego\documents\utn\prog 1\trabajos practicos\tp2\arrayempleados\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589068788 c:\users\diego\documents\utn\prog 1\trabajos practicos\tp2\arrayempleados\milibreria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
